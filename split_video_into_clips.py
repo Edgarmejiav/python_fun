@@ -20,6 +20,7 @@ def split_video_into_clips(video_path, clip_length_seconds):
 
 
 if __name__ == '__main__':
+    ## COLAB LINK https://colab.research.google.com/drive/1nn_fn70-sJ0Vc79_K7mhIIHBjwSsxGRZ?usp=sharing
     # Definir la ruta del archivo de video a recortar
     video_path = "./video.mp4"
 
